@@ -18,3 +18,5 @@ updateClock();
 
 //It updates clocks every set of Interval
 setInterval(updateClock, 1000);
+
+console.log("change of Git")
