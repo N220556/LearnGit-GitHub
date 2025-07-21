@@ -20,3 +20,4 @@ updateClock();
 setInterval(updateClock, 1000);
 
 console.log("change of Git")
+console.log("added .gitignore file")
