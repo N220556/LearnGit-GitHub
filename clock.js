@@ -21,3 +21,4 @@ setInterval(updateClock, 1000);
 
 console.log("change of Git")
 console.log("added .gitignore file")
+// Another chnage in file
