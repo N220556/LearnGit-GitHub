@@ -140,7 +140,6 @@ step 2 : give name (Git Access)
 	 set expire date(minimum) and select Scope (repo all)
 step 3 : Generate token
 step 4 : enter your token as password
-
 === git pull ===
 -> pull changes from the remote repo to your local machine.
 -> Others users may make changes. You pull their changes to your machine
