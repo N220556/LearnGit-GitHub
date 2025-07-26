@@ -7,4 +7,4 @@
 This repo is for learning Git & GitHub
 
 -
-- ** Bullet **
+- **Bullet**
