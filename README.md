@@ -17,6 +17,8 @@ This repo is for learning Git & GitHub
 1. two
 1. three
 
+
+![Alternate text](Digitalclockbackground.png)
 <details>
   <summary>summary html tag</summary>
   this is paragraph in a details tag
