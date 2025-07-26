@@ -21,3 +21,5 @@ This repo is for learning Git & GitHub
   <summary>summary html tag</summary>
   this is paragraph in a details tag
 </details>
+
+&copy N220556 &bull; learnGit-GitHub
