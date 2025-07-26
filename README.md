@@ -22,4 +22,4 @@ This repo is for learning Git & GitHub
   this is paragraph in a details tag
 </details>
 
-&copy N220556 &bull; learnGit-GitHub
+&copy; N220556 &bull; learnGit-GitHub
