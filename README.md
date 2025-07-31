@@ -16,6 +16,7 @@ This repo is for learning Git & GitHub
 1. one
 1. two
 1. three
+2. `highlight`
 
 
 ![Alternate text](Digitalclockbackground.png)
@@ -23,5 +24,8 @@ This repo is for learning Git & GitHub
   <summary>summary html tag</summary>
   this is paragraph in a details tag
 </details>
+
+``` copy text ```
+```bash commands ```
 
 &copy; N220556 &bull; learnGit-GitHub
